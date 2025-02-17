@@ -1,1 +1,1 @@
-# TS_project
+# Projet Séries Temporelles
